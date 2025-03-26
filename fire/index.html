@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FIRE Contribution Stop Age Calculator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+    }
+    label, input {
+      display: block;
+      margin: 0.5em 0;
+    }
+    input[type="number"] {
+      width: 200px;
+    }
+    #result {
+      margin-top: 1em;
+      font-weight: bold;
+      white-space: pre-wrap;
+    }
+
+    #container {
+      display: flex;
+      gap: 2em;
+    }
+    #formContainer, #resultContainer {
+      flex: 1;
+    }
+  </style>
+</head>
+<body>
+  <h1>FIRE Contribution Stop Age Calculator</h1>
+  <div id="container">
+    <div id="formContainer">
+      <form id="fireForm" onsubmit="calculateStopAge(); return false;">
+    <label for="annualSalary">Annual Salary ($):</label>
+    <input type="number" id="annualSalary" required>
+
+    <label for="currentAge">Current Age (years):</label>
+    <input type="number" id="currentAge" required>
+
+    <label for="retirementAge">Retirement Age (years):</label>
+    <input type="number" id="retirementAge" required>
+
+    <p>
+      Enter your annual contribution using <strong>either</strong> a percentage or a fixed amount.
+      If a fixed amount is provided (and greater than 0), it will be used.
+    </p>
+
+    <label for="contribPercent">Retirement Contribution Percentage (%) of Annual Salary:</label>
+    <input type="number" id="retirementContribPercent" step="0.1" value="0">
+
+    <label for="contribFixed">Retirement Fixed Annual Contribution ($):</label>
+    <input type="number" id="retirementContribFixed" step="0.01" value="0">
+
+    <label for="postSavings">Post-Retirement Savings So Far ($):</label>
+    <input type="number" id="postRetirementSavings" required>
+
+    <p>
+      Enter your annual contribution using <strong>either</strong> a percentage or a fixed amount.
+      If a fixed amount is provided (and greater than 0), it will be used.
+    </p>
+
+    <label for="contribPercent">Brokerage(Pre-Retirement) Contribution Percentage (%) of Annual Salary:</label>
+    <input type="number" id="preRetirementContribPercent" step="0.1" value="0">
+
+    <label for="contribFixed">Brokerage(Pre-Retirement) Fixed Annual Contribution ($):</label>
+    <input type="number" id="preRetirementContribFixed" step="0.01" value="0">
+
+    <label for="postSavings">Brokerage(Pre-Retirement) Savings So Far ($):</label>
+    <input type="number" id="brokerageSavings" required>
+
+    <button type="submit">Calculate Stop Age</button>
+  </form>
+    </div>
+    <div id="resultContainer">
+      <div id="result"></div>
+    </div>
+  </div>
+
+
+
+  <script>
+    // Helper function to format numbers (e.g., 250K, 5M)
+    function formatNumber(num) {
+      if (Math.abs(num) >= 1e6) {
+        return (num / 1e6).toFixed(2) + "M";
+      } else if (Math.abs(num) >= 1e3) {
+        return (num / 1e3).toFixed(2) + "K";
+      }
+      return num.toFixed(2);
+    }
+
+    // Update local storage for a given input
+    function updateLocalStorage(id) {
+      const input = document.getElementById(id);
+      localStorage.setItem(id, input.value);
+    }
+
+    function getAnnualContribution(contribPercent, contribFixed, annualSalary) {
+      let annualContribution = 0;
+      if (contribFixed > 0) {
+        annualContribution = contribFixed;
+      } else {
+        annualContribution = annualSalary * (contribPercent / 100);
+      }
+      return annualContribution
+    }
+
+    // Load stored values from local storage if they exist
+    function loadStoredValues() {
+      const fields = [
+        "annualSalary", 
+        "currentAge", 
+        "retirementAge", 
+        "retirementContribPercent", 
+        "retirementContribFixed", 
+        "postRetirementSavings",
+        "preRetirementContribPercent",
+        "preRetirementContribFixed",
+        "brokerageSavings"];
+      fields.forEach(field => {
+        const storedValue = localStorage.getItem(field);
+        if (storedValue !== null) {
+          document.getElementById(field).value = storedValue;
+        }
+      });
+    }
+
+    // Add event listeners to update local storage on input change
+    function addInputListeners() {
+      const fields = [ "annualSalary",
+        "currentAge",
+        "retirementAge",
+        "retirementContribPercent",
+        "retirementContribFixed",
+        "postRetirementSavings",
+        "preRetirementContribPercent",
+        "preRetirementContribFixed",
+        "brokerageSavings"];
+      fields.forEach(field => {
+        document.getElementById(field).addEventListener("input", () => updateLocalStorage(field));
+      });
+    }
+
+    // FIRE Contribution Stop Age Calculator function
+    function calculateStopAge() {
+      // Read input values
+      const annualSalary = parseFloat(document.getElementById("annualSalary").value);
+      const currentAge = parseFloat(document.getElementById("currentAge").value);
+      const retirementAge = parseFloat(document.getElementById("retirementAge").value);
+      const retirementContribPercent = parseFloat(document.getElementById("retirementContribPercent").value);
+      const retirementContribFixed = parseFloat(document.getElementById("retirementContribFixed").value);
+      const postRetirementSavings = parseFloat(document.getElementById("postRetirementSavings").value);
+      const preRetirementContribPercent = parseFloat(document.getElementById("preRetirementContribPercent").value);
+      const preRetirementContribFixed = parseFloat(document.getElementById("preRetirementContribFixed").value);
+      const brokerageSavings = parseFloat(document.getElementById("brokerageSavings").value);
+
+      
+      // FIRE target for post-retirement savings is 25× annual salary (evaluated at retirement).
+      let target = 25 * annualSalary;
+      
+      let foundRetirementSavingsPauseTarget = false;
+      let foundRetirementSavingsPauseYear = 0;
+      let foundWorkingStopTarget = false;
+      let foundWorkingStopYear = 0;
+      let balanceAtStop = 0;
+
+      let retirementSavings = postRetirementSavings;
+      let preRetirementSavings = brokerageSavings;
+      let currentAnnualSalary = annualSalary;
+
+      let resultMessage = `Target based on annual salary of ${formatNumber(annualSalary)} is ${formatNumber(target)} \n`;
+      
+      // Try contribution durations from 0 (stop immediately) to maxYears (contribute until retirement)
+      for (let year = currentAge; year <= retirementAge; year++) {
+        let retirementAnnualContribution = getAnnualContribution(retirementContribPercent, retirementContribFixed, currentAnnualSalary);
+        let preRetirementAnnualContribution = getAnnualContribution(preRetirementContribPercent, preRetirementContribFixed, currentAnnualSalary);
+        let target = 25 * currentAnnualSalary;
+        let remainingYears = retirementAge - year;
+        let finalRetirementBalance = postRetirementSavings * Math.pow(1.1, remainingYears);
+        
+        if (foundRetirementSavingsPauseTarget === false && finalRetirementBalance >= target) {
+          resultMessage += `Stopped contributing to retirement at ${year} \t Projected savings at retirement ${formatNumber(finalRetirementBalance)}\n`;
+          foundRetirementSavingsPauseTarget = true;
+          foundRetirementSavingsPauseYear = year;
+          balanceAtStop = retirementSavings;
+        }
+        let simPreRetirementSavings = preRetirementSavings;
+        if(foundWorkingStopTarget === false) {
+          resultMessage += "Assuming you retire now: \n";
+          for (let simYear = year; simYear <= retirementAge; simYear++) {
+            simPreRetirementSavings = simPreRetirementSavings * 1.07 - currentAnnualSalary;
+            if(simPreRetirementSavings < 0) {
+              resultMessage += `\t\t\tRan OUT OF MONEY!!!! in year ${simYear} Balance: ${formatNumber(simPreRetirementSavings)}\n`;
+              break;
+            }
+            resultMessage += `\t\t\t simulated savings ${formatNumber(simPreRetirementSavings)} for year ${simYear} \n`
+            if(simYear === retirementAge && simPreRetirementSavings > 0) {
+              foundWorkingStopTarget = true;
+              foundWorkingStopYear = year;
+              resultMessage += `\t\t\tStopped working at ${year}\n`;
+            }
+          }
+        }
+
+        let currentRetirementContrib = 0;
+        let currentSavingsContrib = 0;
+
+        if(foundRetirementSavingsPauseTarget) {
+          currentRetirementContrib = 0;
+          currentSavingsContrib = preRetirementAnnualContribution + retirementAnnualContribution;
+        }
+        if(foundWorkingStopTarget) {
+          currentSavingsContrib = 0 - currentAnnualSalary;
+          resultMessage += `Withdrew a salary of ${formatNumber(currentAnnualSalary)} from investments \t`
+        } else {
+          resultMessage += `Pre-retirement savings of  ${formatNumber(currentSavingsContrib)}\t`
+        }
+
+        preRetirementSavings = preRetirementSavings * 1.07 + currentSavingsContrib;
+        retirementSavings = retirementSavings * 1.07 + currentRetirementContrib;
+        resultMessage += `Year ${year + 1}: Pre-retirement: ${formatNumber(preRetirementSavings)}\tRetirement: ${formatNumber(retirementSavings)}\n`
+        currentAnnualSalary = currentAnnualSalary * 1.02;
+      }
+
+      document.getElementById("result").innerText = resultMessage;
+    }
+
+    // Initialize stored values and input listeners when DOM is loaded
+    document.addEventListener("DOMContentLoaded", () => {
+      loadStoredValues();
+      addInputListeners();
+    });
+  </script>
+</body>
+</html>
