@@ -27,7 +27,51 @@
         const md = await res.text();
         // Use marked to convert markdown -> HTML, then sanitize with DOMPurify
         const html = marked.parse(md);
-        document.getElementById('content').innerHTML = DOMPurify.sanitize(html);
+        const sanitized = DOMPurify.sanitize(html);
+        const container = document.getElementById('content');
+        container.innerHTML = sanitized;
+
+        // Make checklist checkboxes interactive and persist their state per page
+        try{
+          const prefix = location.pathname + '::README.md';
+          const checkboxes = Array.from(container.querySelectorAll('input[type="checkbox"]'));
+          checkboxes.forEach((cb, i) => {
+            // some renderers mark task inputs as disabled; enable them
+            cb.removeAttribute('disabled');
+            // derive a stable key per page + index
+            const key = prefix + '::cb::' + i;
+            const saved = localStorage.getItem(key);
+            if(saved !== null) cb.checked = saved === '1';
+            cb.addEventListener('change', () => {
+              localStorage.setItem(key, cb.checked ? '1' : '0');
+            });
+          });
+
+          // Add a small control to clear saved checklist state for this page
+          let controls = document.getElementById('md-controls');
+          if(!controls){
+            controls = document.createElement('div');
+            controls.id = 'md-controls';
+            controls.style.marginTop = '12px';
+            document.body.insertBefore(controls, document.body.firstChild);
+          }
+          // avoid adding multiple buttons
+          if(!document.getElementById('clear-checks')){
+            const btn = document.createElement('button');
+            btn.id = 'clear-checks';
+            btn.textContent = 'Clear checklist state';
+            btn.style.margin = '6px';
+            btn.addEventListener('click', () => {
+              const keys = Object.keys(localStorage).filter(k => k.startsWith(prefix + '::cb::'));
+              keys.forEach(k => localStorage.removeItem(k));
+              checkboxes.forEach(cb => cb.checked = false);
+            });
+            controls.appendChild(btn);
+          }
+        }catch(e){
+          // non-fatal; continue
+          console.warn('checkbox persistence failed', e);
+        }
       }catch(e){
         document.getElementById('content').textContent = e.message;
       }

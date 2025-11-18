@@ -5,3 +5,26 @@ Write a JavaScript program to print the contents of the current window. <a href=
 Write a JavaScript function that reverse a number.
 Example x = 32243;
 Expected Output : 34223 <a href="https://jsfiddle.net/vinitasher/d83yL9h0/" target="_blank">JsFiddle</a>
+
+<script>
+(function(){
+	function enhance(container){
+		const prefix = location.pathname + '::page';
+		const checkboxes = Array.from((container||document).querySelectorAll('input[type="checkbox"]'));
+		checkboxes.forEach((cb,i)=>{
+			try{cb.removeAttribute('disabled');}catch(e){}
+			const key = prefix + '::cb::' + i;
+			const saved = localStorage.getItem(key);
+			if(saved !== null) cb.checked = saved === '1';
+			cb.addEventListener('change', ()=> localStorage.setItem(key, cb.checked ? '1' : '0'));
+			const li = cb.closest('li'); if(li) li.style.listStyle = 'none';
+		});
+		if(checkboxes.length && !document.getElementById('clear-checks')){
+			const btn = document.createElement('button'); btn.id='clear-checks'; btn.textContent='Clear checklist state'; btn.style.margin='6px';
+			btn.addEventListener('click', ()=>{ const keys = Object.keys(localStorage).filter(k=>k.startsWith(prefix + '::cb::')); keys.forEach(k=>localStorage.removeItem(k)); checkboxes.forEach(cb=>cb.checked=false);});
+			(document.body||document.documentElement).insertBefore(btn, (document.body||document.documentElement).firstChild);
+		}
+	}
+	if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', ()=>enhance(document)); else enhance(document);
+})();
+</script>
