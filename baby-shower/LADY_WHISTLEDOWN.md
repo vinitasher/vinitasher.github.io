@@ -18,36 +18,36 @@ For each scandal:
 
 1. Zero chaos
 
-No slips. No counting dozens of votes.
-You only track tables, not people.
+    No slips. No counting dozens of votes.
+    You only track tables, not people.
 
 2. Social & fun
 
-Tables whisper, debate, argue, and strategize → exceptional social energy.
+    Tables whisper, debate, argue, and strategize → exceptional social energy.
 
 3. Easy scoring
 
-A simple tally sheet:
+    A simple tally sheet:
 
-Table 1: IIII
+        Table 1: IIII
 
-Table 2: I
+        Table 2: I
 
-Table 3: II
+        Table 3: II
 
 4. Dramatic suspense
 
-Every round builds toward the final reveal:
+    Every round builds toward the final reveal:
 
-“And the table crowned Most Discerning by Lady Whistledown is…”
+    “And the table crowned Most Discerning by Lady Whistledown is…”
 
 5. Encourages teamwork
 
-People bond instantly when they need to agree on a choice.
+    People bond instantly when they need to agree on a choice.
 
 6. Fits the Bridgerton vibe
 
-Bridgerton is all about salons, gossip circles, alliances, and competition. This captures all of that beautifully.
+    Bridgerton is all about salons, gossip circles, alliances, and competition. This captures all of that beautifully.
 
 🎁 Prize Ideas for the Winning Table
 
@@ -102,3 +102,11 @@ Example scandal (practice):
 "Dearest Readers, a most curious kerfuffle has reached my desk. During last week's garden soiree, one of the guests absconded with the host's dainty sugar tongs. Three persons were seen lingering near the tea tray: 1) Mrs. Greenwood, recently returned from the continent and always a touch too eager for sweets; 2) Mr. Pritchard, who confessed a weakness for silver at soirées; 3) Miss Lane, who was seen practicing her curtsey near the tea table earlier in the evening. Which of these three pilfered the silver? Discuss and choose your table's vote. On the count of three — reveal!"
 
 Host tip: After the reveal, announce the 'correct' answer (pick one for the practice round) and show how to mark the tally sheet (e.g., Table 1: I, Table 2: , Table 3: I). Keep it light — the practice round is for pacing and to show how to tally.
+
+---
+
+### Printable Handouts
+
+- [Practice Round Handout](./handouts/PRACTICE_ROUND.html) — one-page host handout for the practice scandal and instructions (printable)
+- [Tally Sheet (HTML)](./handouts/TALLY_SHEET.html) — printable grid for up to 12 tables and 10 rounds
+- [Tally Sheet (CSV)](./handouts/TALLY_SHEET.csv) — download to edit in a spreadsheet or print
