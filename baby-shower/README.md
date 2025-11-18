@@ -37,9 +37,9 @@ Times can be adjusted based on final guest count and venue constraints.
 
 To keep planning organized, details are split into separate markdown files:
 
-- [DECOR.md](./DECOR.md) – Decor layout, checklists, and decor-related host script  
-- [GAMES.md](./GAMES.md) – All games rules, materials checklists, and MC scripts  
-- [FOOD.md](./FOOD.md) – Lunch menu, tea setup, food checklists, and food-related host script
+- [DECOR](./DECOR.html) – Decor layout, checklists, and decor-related host script  
+- [GAMES](./GAMES.html) – All games rules, materials checklists, and MC scripts  
+- [FOOD](./FOOD.html) – Lunch menu, tea setup, food checklists, and food-related host script
 
 Open each file for specific instructions on setup and what the host should say.
 
@@ -67,7 +67,7 @@ A ramp walk among all the ladies wearing props that give them a Bridgerton look.
 > Your presence, laughter, and kindness have filled this day with more joy than even Lady Whistledown could adequately report.  
 >  
 > As whispers of lullabies replace the gossip of the season, may you remember this afternoon with fondness and delight.  
-> On behalf of Queen Victoria (Mayuri), Lady Whistledown (Jinisha), and the entire Shah household, we extend our heartfelt gratitude for gracing this most charming affair.  
+> On behalf of Queen Victoria (Mayuri Shah), Lady Whistledown (Jinisha Shah), and the Shah and Asher households, we extend our heartfelt gratitude for gracing this most charming affair.  
 >  
 > Until the next season,  
 > **Lady Whistledown**
