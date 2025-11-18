@@ -40,6 +40,7 @@ Theme: Soft, romantic Bridgerton-inspired Regency garden party with pastel color
 - **Table décor kettle pieces with artificial flowers**
   - Teapots or kettles as vases with faux roses, hydrangeas, baby’s breath.
   - (No LED tealights around centerpieces.)
+  - Add floral triangle banners (fabric or paper bunting with floral prints) strung above tables or across the venue for a garden-party look.
 
 ### 2.5 Extra Bridgerton Touches
 - Printed “society papers” styled as Lady Whistledown gossip sheets.
@@ -68,7 +69,7 @@ Theme: Soft, romantic Bridgerton-inspired Regency garden party with pastel color
 - [ ] Table covers ironed and placed  
 - [ ] Table runners centered on each table  
 - [ ] Paper teapot centerpieces with artificial flowers  
-  
+ - [ ] Floral triangle banners installed above tables/venue
 
 **Atmosphere**
 - [ ] Lady Whistledown “society papers” printed and placed  

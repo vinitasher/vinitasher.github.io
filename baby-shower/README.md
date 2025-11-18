@@ -41,6 +41,7 @@ To keep planning organized, details are split into separate markdown files:
 - [GAMES](./GAMES.html) – All games rules, materials checklists, and MC scripts  
 - [FOOD](./FOOD.html) – Lunch menu, tea setup, food checklists, and food-related host script
 - [KIDS](./KIDS.html) – Kid-friendly activities, supplies, and kids-area checklist
+- [BRIDGERTON](./BRIDGERTON.html) – Attire suggestions and Ramp Walk flow/script
 
 Open each file for specific instructions on setup and what the host should say.
 
