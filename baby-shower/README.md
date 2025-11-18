@@ -23,9 +23,9 @@ A regal, pastel-soaked afternoon inspired by the world of Bridgerton, where gues
 ## 2. High-Level Timeline (11:00 AM – 2:00 PM)
 
 **11:00 – 11:30 AM** – Guest arrival, welcome, photos at backdrop, start "Don’t Say Baby"  
-**11:30 – 12:15 PM** – High tea, light games & mingling  
-**12:15 – 12:45 PM** – Bridgerton ramp walk and photo session  
-**12:45 – 1:00 PM** – Transition, final pre-lunch game or creative station  
+**11:30 – 12:00 PM** – High tea, refreshments, and a few games before lunch  
+**12:00 – 12:30 PM** – Bridgerton ramp walk and photo session  
+**12:30 – 1:00 PM** – Transition, final pre-lunch game or creative station  
 **1:00 – 1:45 PM** – Lunch service (buffet)  
 **1:45 – 2:00 PM** – Closing remarks, thank-you note, final photos
 
