@@ -90,3 +90,15 @@ Tie-breaker options:
 - Optional handout with a short example scandal to practice before the first round
 
 Have Lady Whistledown keep the tone playful and dramatic — the point is social energy and suspense, not accuracy.
+
+---
+
+## Practice Round — Example Scandal
+
+Read the following aloud as a short practice scandal and invite each table to discuss and choose `1`, `2`, or `3`. Use this to demonstrate timing and the reveal.
+
+Example scandal (practice):
+
+"Dearest Readers, a most curious kerfuffle has reached my desk. During last week's garden soiree, one of the guests absconded with the host's dainty sugar tongs. Three persons were seen lingering near the tea tray: 1) Mrs. Greenwood, recently returned from the continent and always a touch too eager for sweets; 2) Mr. Pritchard, who confessed a weakness for silver at soirées; 3) Miss Lane, who was seen practicing her curtsey near the tea table earlier in the evening. Which of these three pilfered the silver? Discuss and choose your table's vote. On the count of three — reveal!"
+
+Host tip: After the reveal, announce the 'correct' answer (pick one for the practice round) and show how to mark the tally sheet (e.g., Table 1: I, Table 2: , Table 3: I). Keep it light — the practice round is for pacing and to show how to tally.
