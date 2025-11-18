@@ -1,5 +1,18 @@
 # 🌸 Lady Whistledown’s Table Challenge
 
+## Precursor: Collect a Charming, Consenting Gossip
+
+Before the baby shower day, the host should ask each guest for a short, charmingly innocent (but slightly scandalous) anecdote about themselves — explicitly confirming they're happy for it to be shared with the room. The language below is a safe, playful template the host can use.
+
+Host script (ask during arrival or while seating):
+
+> "Dearest Guest, for a bit of Bridgerton mischief — would you share one short, charmingly innocent scandal about yourself that you wouldn't mind Lady Whistledown mentioning during the game? Keep it light (a funny mishap or little harmless secret), and only share something you're happy for the Ton to hear. May I record that line for the gossip rounds?"
+
+Notes:
+- Prefer short one-liners (10–20 words) so the host can read them aloud later.
+- Confirm consent: if a guest hesitates, thank them and move on — never pressure anyone to share.
+- The host may paraphrase for clarity and privacy (omit sensitive details) before reading it to the room.
+
 Most Correct Votes = The Grand Prize Winners
 
 ✨ How the Game Works
@@ -104,6 +117,13 @@ Example scandal (practice):
 Host tip: After the reveal, announce the 'correct' answer (pick one for the practice round) and show how to mark the tally sheet (e.g., Table 1: I, Table 2: , Table 3: I). Keep it light — the practice round is for pacing and to show how to tally.
 
 ---
+
+### Printable Handouts
+
+ - [Practice Round Handout](./handouts/PRACTICE_ROUND.html) — one-page host handout for the practice scandal and instructions (printable)
+ - [Tally Sheet (HTML)](./handouts/TALLY_SHEET.html) — printable grid for up to 12 tables and 10 rounds
+ - [Tally Sheet (CSV)](./handouts/TALLY_SHEET.csv) — download to edit in a spreadsheet or print
+
 
 ### Printable Handouts
 
