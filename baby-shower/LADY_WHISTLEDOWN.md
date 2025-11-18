@@ -1,5 +1,7 @@
 # 🌸 Lady Whistledown’s Table Challenge
 
+--- 
+
 ## Precursor: Collect a Charming, Consenting Gossip
 
 Before the baby shower day, the host should ask each guest for a short, charmingly innocent (but slightly scandalous) anecdote about themselves — explicitly confirming they're happy for it to be shared with the room. The language below is a safe, playful template the host can use.
@@ -13,9 +15,15 @@ Notes:
 - Confirm consent: if a guest hesitates, thank them and move on — never pressure anyone to share.
 - The host may paraphrase for clarity and privacy (omit sensitive details) before reading it to the room.
 
+--- 
+
+## Rules
+
 Most Correct Votes = The Grand Prize Winners
 
-✨ How the Game Works
+--- 
+
+## ✨ How the Game Works
 
 Each table gets three large option cards: `A`, `B`, `C` (use numbers to identify tables for scoring).
 
@@ -27,7 +35,9 @@ For each scandal:
 - Lady Whistledown notes which tables were correct.
 - At the end of all scandals, the table with the most correct guesses wins the Grand Prize.
 
-⭐ Why This Version Is PERFECT
+--- 
+
+## ⭐ Why This Version Is PERFECT
 
 1. Zero chaos
 
@@ -62,7 +72,9 @@ For each scandal:
 
     Bridgerton is all about salons, gossip circles, alliances, and competition. This captures all of that beautifully.
 
-🎁 Prize Ideas for the Winning Table
+--- 
+
+## 🎁 Prize Ideas for the Winning Table
 
 Give a single larger prize for the whole table OR one gift per person. Examples:
 
@@ -82,7 +94,9 @@ One shared prize (fun option)
 - A tea-time basket
 - A Bridgerton-themed gift box
 
-🎀 Optional: Tie-Breakers
+--- 
+
+## 🎀 Optional: Tie-Breakers
 
 If two tables tie, Lady Whistledown announces:
 
@@ -124,6 +138,7 @@ Host tip: After the reveal, announce the 'correct' answer (pick one for the prac
  - [Tally Sheet (HTML)](./handouts/TALLY_SHEET.html) — printable grid for up to 12 tables and 10 rounds
  - [Tally Sheet (CSV)](./handouts/TALLY_SHEET.csv) — download to edit in a spreadsheet or print
 
+---
 
 ### Printable Handouts
 
