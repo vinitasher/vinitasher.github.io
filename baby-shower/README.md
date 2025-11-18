@@ -42,6 +42,7 @@ To keep planning organized, details are split into separate markdown files:
 - [FOOD](./FOOD.html) – Lunch menu, tea setup, food checklists, and food-related host script
 - [KIDS](./KIDS.html) – Kid-friendly activities, supplies, and kids-area checklist
 - [BRIDGERTON](./BRIDGERTON.html) – Attire suggestions and Ramp Walk flow/script
+- [LADY_WHISTLEDOWN](./LADY_WHISTLEDOWN.html) – Lady Whistledown’s Table Challenge game (table gossip & voting)
 
 Open each file for specific instructions on setup and what the host should say.
 
