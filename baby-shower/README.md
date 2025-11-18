@@ -40,6 +40,7 @@ To keep planning organized, details are split into separate markdown files:
 - [DECOR](./DECOR.html) – Decor layout, checklists, and decor-related host script  
 - [GAMES](./GAMES.html) – All games rules, materials checklists, and MC scripts  
 - [FOOD](./FOOD.html) – Lunch menu, tea setup, food checklists, and food-related host script
+- [KIDS](./KIDS.html) – Kid-friendly activities, supplies, and kids-area checklist
 
 Open each file for specific instructions on setup and what the host should say.
 
