@@ -56,7 +56,7 @@ A ramp walk among all the ladies wearing props that give them a Bridgerton look.
 - Announce each participant as if they are being presented to the Ton.  
 - End with a group photo at the backdrop with Vinit & Priyanka.
 
-(Full decor details and suggested lines for the host are in `DECOR.md`.)
+(Full decor details and suggested lines for the host are in [DECOR](./DECOR.html).)
 
 ---
 
@@ -74,4 +74,4 @@ A ramp walk among all the ladies wearing props that give them a Bridgerton look.
 > Until the next season,  
 > **Lady Whistledown**
 
-This main README serves as the overview. Use `DECOR.md`, `GAMES.md`, and `FOOD.md` as your working documents for setup and hosting on the day.
+This main README serves as the overview. Use [DECOR](./DECOR.html), [GAMES](./GAMES.html), and [FOOD](./FOOD.html) as your working documents for setup and hosting on the day.

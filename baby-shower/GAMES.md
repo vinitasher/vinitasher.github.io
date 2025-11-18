@@ -211,7 +211,7 @@ Recommended schedule (flexible):
 
 ---
 
-> NOTE: Kids games have been moved to `KIDS.md` — see `baby-shower/KIDS.md` for the kids area setup and checklists.
+> NOTE: Kids games have been moved to [KIDS](./KIDS.html) — see [baby-shower/KIDS](./KIDS.html) for the kids area setup and checklists.
 
 ---
 

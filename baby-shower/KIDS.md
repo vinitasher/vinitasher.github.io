@@ -31,4 +31,4 @@ These activities are intended for younger guests. Run them as a supervised kids'
 
 - **Tea-party theme tattoos** — provide a small station with kid-safe temporary tattoos (tea-cup, rose, crown motifs), wipes, and a volunteer to apply them. Great for photos and keepsakes.
 
-For more detailed adult versions of some games, see `GAMES.md` (sections 2.2, 2.9, 2.10).
+For more detailed adult versions of some games, see [GAMES](./GAMES.html) (sections 2.2, 2.9, 2.10).
