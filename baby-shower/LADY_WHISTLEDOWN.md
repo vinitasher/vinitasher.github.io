@@ -4,7 +4,7 @@ Most Correct Votes = The Grand Prize Winners
 
 ✨ How the Game Works
 
-Each table gets three large cards: `1`, `2`, `3`.
+Each table gets three large option cards: `A`, `B`, `C` (use numbers to identify tables for scoring).
 
 For each scandal:
 
@@ -84,7 +84,7 @@ Tie-breaker options:
 
 ## Host Notes & Materials
 
-- Large table cards labeled `1`, `2`, `3` (sturdy cardstock or small wooden paddles)
+- Large table option cards labeled `A`, `B`, `C` (sturdy cardstock or small wooden paddles); use table numbers (Table 1, Table 2...) to track scores on the tally sheet.
 - Tally sheet for the host (or score sheet by table)
 - Small bell or flourish sound for the reveal if desired
 - Optional handout with a short example scandal to practice before the first round
@@ -95,7 +95,7 @@ Have Lady Whistledown keep the tone playful and dramatic — the point is social
 
 ## Practice Round — Example Scandal
 
-Read the following aloud as a short practice scandal and invite each table to discuss and choose `1`, `2`, or `3`. Use this to demonstrate timing and the reveal.
+Read the following aloud as a short practice scandal and invite each table to discuss and choose `A`, `B`, or `C`. Use this to demonstrate timing and the reveal.
 
 Example scandal (practice):
 
