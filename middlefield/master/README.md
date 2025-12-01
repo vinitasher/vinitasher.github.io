@@ -2,9 +2,11 @@
 
 > **Room Code:** `8 – Purple – Master Bedroom`
 > Write `8 – Master Bedroom` on every master bedroom box label.
+>
+> **Labels:** See [Master Bedroom label](room-label.md) · [Back to Moving Hub](../README.md)
 
 ## Furniture Placement (2561 Middlefield)
-- **King-size bed** with **2 side tables** goes in the **Master Bedroom**.
+- **King-size bed** (to be assembled by movers) with **2 side tables** goes in the **Master Bedroom**.
 - **Mini crib** also lives in the **Master Bedroom**.
 
 ## Packing Checklist

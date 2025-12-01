@@ -68,7 +68,6 @@ Use this checklist on **Dec 4** to prepare the house for deep cleaning and verif
 
 ### 5. Bedrooms (Including Master, Kids, Guest, Pool-Facing)
 - [ ] All surfaces dusted (nightstands, dressers, window sills)
-- [ ] Lamps and lamp bases wiped down
 - [ ] Picture frames and obvious decor dusted
 - [ ] Floors vacuumed/mopped, including edges near baseboards
 
@@ -99,4 +98,3 @@ Use this checklist on **Dec 4** to prepare the house for deep cleaning and verif
 Optional:
 - [ ] Take a few **after** photos of key areas to compare with the before photos
 - [ ] Add notes to your moving plan about what still needs organizing vs. what’s now clean and ready
-

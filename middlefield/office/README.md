@@ -3,6 +3,8 @@
 > **Room Code:** `7 – Grey – Office`
 > Write `7 – Office` on every office box label.
 >
+> **Labels:** See [Office / Media Room label](room-label.md) · [Back to Moving Hub](../README.md)
+>
 > **Dec 5 (You):** Pack and personally move sensitive electronics and documents.
 > **Dec 6 (Movers @ 2 PM):** Movers handle furniture and labeled office boxes.
 

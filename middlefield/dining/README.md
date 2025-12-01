@@ -2,6 +2,8 @@
 
 > **Room Code:** `4 – Green – Dining Room`
 > Write `4 – Dining Room` on every dining room box label.
+>
+> **Labels:** See [Dining Room label](room-label.md) · [Back to Moving Hub](../README.md)
 
 ## Packing Checklist
 - [ ] Pack table decor and runners

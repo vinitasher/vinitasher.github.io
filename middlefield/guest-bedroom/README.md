@@ -2,6 +2,8 @@
 
 > **Room Code:** `9 – Black – Guest Bedroom`
 > Write `9 – Guest Bedroom` on every guest bedroom box label.
+>
+> **Labels:** See [Guest Bedroom label](room-label.md) · [Back to Moving Hub](../README.md)
 
 ## Furniture Placement (2561 Middlefield)
 - **Small computer desk/table** goes in the **Guest Bedroom**.
@@ -9,7 +11,7 @@
 ## Packing Checklist
 - [ ] Pack guest bedding and extra pillows
 - [ ] Pack towels reserved for guests
-- [ ] Pack side table decor and lamps
+- [ ] Pack side table decor (no lamps)
 - [ ] Pack spare blankets and throws
 
 ## Unpacking & Setup Checklist (2561 Middlefield)

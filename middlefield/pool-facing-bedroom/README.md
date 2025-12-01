@@ -2,27 +2,28 @@
 
 > **Room Code:** `5 – Orange – Pool-Facing Bedroom`
 > Write `5 – Pool-Facing Bedroom` on every pool-facing bedroom box label.
+>
+> **Labels:** See [Pool-Facing Bedroom label](room-label.md) · [Back to Moving Hub](../README.md)
 
 ## Furniture Placement (2561 Middlefield)
-- **Queen bed** goes in the **Pool-Facing Bedroom**.
+- **Queen bed** (to be assembled by movers) goes in the **Pool-Facing Bedroom**.
 
 ## Packing Checklist
 - [ ] Pack bedding (sheets, comforter, pillows)
-- [ ] Pack side table items and decor
+- [ ] Pack side table items and decor (no lamps)
 - [ ] Pack clothes from closet (label seasonally if needed)
 - [ ] Pack wall decor and frames
-- [ ] Pack lamps and electronics
+- [ ] Pack electronics
 
 ## Unpacking & Setup Checklist (2561 Middlefield)
-- [ ] Decide bed placement in relation to pool view
-- [ ] Set up side tables and lamps
+- [ ] Decide bed placement in the room
+- [ ] Set up side tables (no lamps)
 - [ ] Make the bed with fresh linens
 - [ ] Arrange closet (everyday vs seasonal)
-- [ ] Add blackout/Sheer curtains for pool-facing windows
 
 ## Donate / Sell / Trash Notes
 - [ ] Old bedding
 - [ ] Clothes to donate
 
 ## Notes
-- Curtain measurements:
+- Curtain measurements (if added later):

@@ -2,6 +2,8 @@
 
 > **Room Code:** `3 – Yellow – Living Room`
 > Write `3 – Living Room` on every living room box label.
+>
+> **Labels:** See [Living Room label](room-label.md) · [Back to Moving Hub](../README.md)
 
 ## Furniture Placement (2561 Middlefield)
 - Main **sofa** lives in the **Living Room**.

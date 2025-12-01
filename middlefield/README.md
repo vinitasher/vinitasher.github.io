@@ -19,6 +19,20 @@ Write both the **number** and **room name** on each label, e.g. `1 – Family Ro
 
 > For movers, see [Movers Instructions – 2561 Middlefield Ave](mover-instructions.md).
 
+## Room Summary – Numbers, Colors, and Big Items
+
+| # | Color  | Room Name            | Key Furniture / Items                                                                 |
+|---|--------|----------------------|---------------------------------------------------------------------------------------|
+| 1 | Red    | Family Room          | Seating, toy/game shelves, board games (kids’ books live in Kids Room; no TV here)   |
+| 2 | Pink   | Kitchen              | Cabinets, pantry items, dishes, small appliances                                      |
+| 3 | Yellow | Living Room          | Main sofa, coffee table, side tables (no TV; TV lives in Office / Media Room)        |
+| 4 | Green  | Dining Room          | Dining table, chairs/bench, simple table decor and runners                           |
+| 5 | Orange | Pool-Facing Bedroom  | Queen bed (assembled by movers), side tables, basic decor                            |
+| 6 | Blue   | Kids Room            | **Full-size crib**, toy storage, kids’ desk/study area, kids’ books/library          |
+| 7 | Grey   | Office / Media Room  | Large **computer desk**, main **TV** + mount, bookshelf, tech/media storage          |
+| 8 | Purple | Master Bedroom       | **King bed** (assembled by movers), 2 side tables, **mini crib**, dresser, closet    |
+| 9 | Black  | Guest Bedroom        | **Small computer desk/table**, linens/guest storage, basic decor                     |
+
 ## Key Dates
 - **Dec 2** – **Inspection day**: validate closets, garage epoxy, and garage appliances.
 - **Dec 4** – **Deep cleaning**: whole-house professional clean before move-in.

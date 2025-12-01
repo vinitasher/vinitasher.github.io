@@ -1,92 +1,108 @@
-# MOVERS – QUICK ROOM GUIDE (2561 Middlefield)
+# MOVERS – ROOM LABEL SHEET (2561 Middlefield)
 
-Use this page only. Big number + color on the box = room on this chart.
+Use this pack to match **box labels** and **door labels**. One big label per room.
+Print this file in color. Page 1 = all room labels (2 per row). Page 2 = major items note.
 
-## 1. Room Codes (Match Box Labels)
+---
 
-<table style="border-collapse: collapse; width: 100%; font-size: 18px; text-align: left;">
+## Page 1 – Room Labels (Match Boxes and Doors)
+
+> Each box label and door label should match these numbers, colors, and room names.
+
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th style="border: 2px solid #000; padding: 8px;">Number</th>
-    <th style="border: 2px solid #000; padding: 8px;">Color</th>
-    <th style="border: 2px solid #000; padding: 8px;">Room Name</th>
-    <th style="border: 2px solid #000; padding: 8px;">Door Sign Says</th>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>1 – Family Room (Red)</h3>
+      <div style="border: 6px solid red; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: red; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">1</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">FAMILY ROOM</div>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>2 – Kitchen (Pink)</h3>
+      <div style="border: 6px solid hotpink; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: hotpink; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">2</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">KITCHEN</div>
+      </div>
+    </td>
   </tr>
-  <tr style="color: red;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">1</td>
-    <td style="border: 2px solid #000; padding: 8px;">Red</td>
-    <td style="border: 2px solid #000; padding: 8px;">Family Room</td>
-    <td style="border: 2px solid #000; padding: 8px;">1 – FAMILY ROOM</td>
+  <tr>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>3 – Living Room (Yellow)</h3>
+      <div style="border: 6px solid gold; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: goldenrod; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">3</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">LIVING ROOM</div>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>4 – Dining Room (Green)</h3>
+      <div style="border: 6px solid green; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: green; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">4</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">DINING ROOM</div>
+      </div>
+    </td>
   </tr>
-  <tr style="color: hotpink;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">2</td>
-    <td style="border: 2px solid #000; padding: 8px;">Pink</td>
-    <td style="border: 2px solid #000; padding: 8px;">Kitchen</td>
-    <td style="border: 2px solid #000; padding: 8px;">2 – KITCHEN</td>
+  <tr>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>5 – Pool-Facing Bedroom (Orange)</h3>
+      <div style="border: 6px solid orange; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: darkorange; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">5</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">POOL-FACING BEDROOM</div>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>6 – Kids Room (Blue)</h3>
+      <div style="border: 6px solid blue; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: blue; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">6</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">KIDS ROOM</div>
+      </div>
+    </td>
   </tr>
-  <tr style="color: goldenrod;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">3</td>
-    <td style="border: 2px solid #000; padding: 8px;">Yellow</td>
-    <td style="border: 2px solid #000; padding: 8px;">Living Room</td>
-    <td style="border: 2px solid #000; padding: 8px;">3 – LIVING ROOM</td>
+  <tr>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>7 – Office / Media Room (Grey)</h3>
+      <div style="border: 6px solid grey; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: grey; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">7</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">OFFICE / MEDIA ROOM</div>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>8 – Master Bedroom (Purple)</h3>
+      <div style="border: 6px solid purple; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: purple; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">8</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">MASTER BEDROOM</div>
+      </div>
+    </td>
   </tr>
-  <tr style="color: green;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">4</td>
-    <td style="border: 2px solid #000; padding: 8px;">Green</td>
-    <td style="border: 2px solid #000; padding: 8px;">Dining Room</td>
-    <td style="border: 2px solid #000; padding: 8px;">4 – DINING ROOM</td>
-  </tr>
-  <tr style="color: darkorange;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">5</td>
-    <td style="border: 2px solid #000; padding: 8px;">Orange</td>
-    <td style="border: 2px solid #000; padding: 8px;">Pool-Facing Bedroom</td>
-    <td style="border: 2px solid #000; padding: 8px;">5 – POOL-FACING BEDROOM</td>
-  </tr>
-  <tr style="color: blue;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">6</td>
-    <td style="border: 2px solid #000; padding: 8px;">Blue</td>
-    <td style="border: 2px solid #000; padding: 8px;">Kids Room</td>
-    <td style="border: 2px solid #000; padding: 8px;">6 – KIDS ROOM</td>
-  </tr>
-  <tr style="color: grey;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">7</td>
-    <td style="border: 2px solid #000; padding: 8px;">Grey</td>
-    <td style="border: 2px solid #000; padding: 8px;">Office / Media Room</td>
-    <td style="border: 2px solid #000; padding: 8px;">7 – OFFICE</td>
-  </tr>
-  <tr style="color: purple;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">8</td>
-    <td style="border: 2px solid #000; padding: 8px;">Purple</td>
-    <td style="border: 2px solid #000; padding: 8px;">Master Bedroom</td>
-    <td style="border: 2px solid #000; padding: 8px;">8 – MASTER BEDROOM</td>
-  </tr>
-  <tr style="color: black;">
-    <td style="border: 2px solid #000; padding: 8px; font-weight: 700;">9</td>
-    <td style="border: 2px solid #000; padding: 8px;">Black</td>
-    <td style="border: 2px solid #000; padding: 8px;">Guest Bedroom</td>
-    <td style="border: 2px solid #000; padding: 8px;">9 – GUEST BEDROOM</td>
+  <tr>
+    <td style="width: 50%; padding: 8px; vertical-align: top;">
+      <h3>9 – Guest Bedroom (Black)</h3>
+      <div style="border: 6px solid black; padding: 24px; text-align: center; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: black; max-width: 100%; margin: 0 auto;">
+        <div style="font-size: 72px; font-weight: 800; line-height: 1;">9</div>
+        <div style="font-size: 32px; font-weight: 800; margin-top: 8px; letter-spacing: 2px;">GUEST BEDROOM</div>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 8px; vertical-align: top;"><!-- empty cell to keep layout even --></td>
   </tr>
 </table>
 
-Each box label looks like: **`NUMBER – ROOM NAME`**  
-Example: **`1 – Family Room`** → take to **Family Room (Red)**.
+<div style="page-break-after: always;"></div>
 
-## 2. Simple Rules
+---
 
-### A. Where to take each box
-- Label starts with **1** → **Family Room** (Red)
-- Label starts with **2** → **Kitchen** (Pink)
-- Label starts with **3** → **Living Room** (Yellow)
-- Label starts with **4** → **Dining Room** (Green)
-- Label starts with **5** → **Pool-Facing Bedroom** (Orange)
-- Label starts with **6** → **Kids Room** (Blue)
-- Label starts with **7** → **Office / Media Room** (Grey)
-- Label starts with **8** → **Master Bedroom** (Purple)
-- Label starts with **9** → **Guest Bedroom** (Black)
+## Page 2 – Major Items for Movers
 
-### B. TV and Heavy Items (Important)
-- **All TV and TV mount go to `7 – Office / Media Room` (Grey)**.
-- Big desk and bookshelf also go to **7 – Office / Media Room**.
+> Quick notes for big/heavy items. Ask if you are not sure.
 
-If a label is **hard to read or missing**, please **ask before you drop the box**.
+- **TV + TV mount** → go to **7 – Office / Media Room (Grey)** only.
+- **Large computer desk** → **7 – Office / Media Room (Grey)**.
+- **Bookshelf** → **7 – Office / Media Room (Grey)**.
+- **Queen bed** (all parts) → **5 – Pool-Facing Bedroom (Orange)**, **assemble there**.
+- **King bed** (all parts) → **8 – Master Bedroom (Purple)**, **assemble there**.
+- **Full-size crib** → **6 – Kids Room (Blue)**.
+- **Mini crib** → **8 – Master Bedroom (Purple)**.
+- **Small computer desk** → **9 – Guest Bedroom (Black)**.
+
+If a label is **hard to read or missing**, please **ask before you drop the box or furniture**.
 
 Thank you for helping keep everything in the right room.
