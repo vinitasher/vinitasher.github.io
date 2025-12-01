@@ -3,6 +3,10 @@
 > **Room Code:** `3 – Yellow – Living Room`
 > Write `3 – Living Room` on every living room box label.
 
+## Furniture Placement (2561 Middlefield)
+- Main **sofa** lives in the **Living Room**.
+- Decide final orientation (facing TV wall, window, or open to dining).
+
 ## Packing Checklist
 - [ ] Declutter: donate / sell / trash unwanted items
 - [ ] Pack a box of essentials (snacks, clothes, toiletries)

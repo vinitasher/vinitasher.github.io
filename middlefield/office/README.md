@@ -6,6 +6,10 @@
 > **Dec 5 (You):** Pack and personally move sensitive electronics and documents.
 > **Dec 6 (Movers @ 2 PM):** Movers handle furniture and labeled office boxes.
 
+## Furniture Placement (2561 Middlefield)
+- **Bookshelf** goes in the **Office** (not guest or kids rooms).
+- Large **computer desk** lives in the **Office / media room** (see that room’s notes if separate).
+
 ## Packing Checklist (Before / On Dec 5)
 - [ ] Back up computers and important files
 - [ ] Pack laptops and sensitive electronics to carry personally

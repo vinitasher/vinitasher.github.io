@@ -3,6 +3,9 @@
 > **Room Code:** `5 – Orange – Pool-Facing Bedroom`
 > Write `5 – Pool-Facing Bedroom` on every pool-facing bedroom box label.
 
+## Furniture Placement (2561 Middlefield)
+- **Queen bed** goes in the **Pool-Facing Bedroom**.
+
 ## Packing Checklist
 - [ ] Pack bedding (sheets, comforter, pillows)
 - [ ] Pack side table items and decor

@@ -17,9 +17,14 @@ Use these colors and numbers on your box labels and printed checklists:
 
 Write both the **number** and **room name** on each label, e.g. `1 – Family Room`.
 
+> For movers, see [Movers Instructions – 2561 Middlefield Ave](mover-instructions.md).
+
 ## Key Dates
+- **Dec 2** – **Inspection day**: validate closets, garage epoxy, and garage appliances.
 - **Dec 5** – Pre-moving day: you move delicate / high-value items, set up essentials.
 - **Dec 6, 2:00 PM** – Official move with movers bringing furniture and remaining boxes.
+
+> See [Dec 2 – Pre-Move Inspection Checklist](dec-2-inspection.md) for detailed checks.
 
 ### Suggested Timeline
 - **Before Dec 5**

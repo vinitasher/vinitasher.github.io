@@ -3,6 +3,9 @@
 > **Room Code:** `6 – Blue – Kids Room`
 > Write `6 – Kids Room` on every kids room box label.
 
+## Furniture Placement (2561 Middlefield)
+- **Full-size crib** belongs in the **Kids Room**.
+
 ## Packing Checklist
 - [ ] Involve kids in choosing toys to keep vs donate
 - [ ] Pack favorite toys in a clearly labeled "OPEN FIRST" box

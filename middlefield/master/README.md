@@ -3,6 +3,10 @@
 > **Room Code:** `8 – Purple – Master Bedroom`
 > Write `8 – Master Bedroom` on every master bedroom box label.
 
+## Furniture Placement (2561 Middlefield)
+- **King-size bed** with **2 side tables** goes in the **Master Bedroom**.
+- **Mini crib** also lives in the **Master Bedroom**.
+
 ## Packing Checklist
 - [ ] Pack everyday vs off-season clothes separately
 - [ ] Pack jewelry and valuables (keep with you, not movers)
