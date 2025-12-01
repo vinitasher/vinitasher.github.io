@@ -7,14 +7,14 @@
 - [ ] Declutter toys, games, and books
 - [ ] Pack board games and puzzles (tape boxes)
 - [ ] Pack toys by category / child and label clearly
-- [ ] Secure and pack TV, consoles, and remotes
+- [ ] Pack consoles, remotes, and media devices (label for **Office / media room**)
 - [ ] Pack blankets, throws, and cushions
 - [ ] Pack photo frames and keepsakes (fragile)
 
 ## Unpacking & Setup Checklist (2561 Middlefield)
 - [ ] Decide main seating arrangement
 - [ ] Create toy storage zone (bins, shelves)
-- [ ] Set up media/TV unit
+- [ ] Set up toy/game shelves only (all media storage is in **Office / media room**)
 - [ ] Organize board games and books
 - [ ] Create a cozy reading / snuggle corner
 
@@ -23,4 +23,4 @@
 - [ ] Games with missing pieces to discard
 
 ## Notes
-- Media unit / storage ideas:
+- Toy and game storage ideas (media storage lives in Office / media room):

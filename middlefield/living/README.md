@@ -5,7 +5,7 @@
 
 ## Furniture Placement (2561 Middlefield)
 - Main **sofa** lives in the **Living Room**.
-- Decide final orientation (facing TV wall, window, or open to dining).
+- Decide final orientation (toward conversation area or view; **TV is in Office / media room, not here**).
 
 ## Packing Checklist
 - [ ] Declutter: donate / sell / trash unwanted items

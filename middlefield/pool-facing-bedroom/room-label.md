@@ -2,7 +2,9 @@
 
 **Color:** Orange
 
-Print this page in large size and hang on the **Pool-Facing Bedroom** door.
+Use this label on the **Pool-Facing Bedroom** door and boxes.
+
+[Back to Pool-Facing Bedroom checklist](README.md)
 
 ---
 
@@ -10,3 +12,4 @@ Print this page in large size and hang on the **Pool-Facing Bedroom** door.
   <div style="font-size: 96px; font-weight: 800; line-height: 1;">5</div>
   <div style="font-size: 40px; font-weight: 800; margin-top: 12px; letter-spacing: 2px;">POOL-FACING BEDROOM</div>
 </div>
+

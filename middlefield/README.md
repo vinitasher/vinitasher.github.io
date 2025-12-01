@@ -5,15 +5,15 @@ This folder tracks all moving-related checklists for 2561 Middlefield Ave, Fremo
 ## Color & Label Legend
 Use these colors and numbers on your box labels and printed checklists:
 
-- **1 – Red – [Family Room](family/door-sign.md)**
-- **2 – Pink – [Kitchen](kitchen/door-sign.md)**
-- **3 – Yellow – [Living Room](living/door-sign.md)**
-- **4 – Green – [Dining Room](dining/door-sign.md)**
-- **5 – Orange – [Pool-Facing Bedroom](pool-facing-bedroom/door-sign.md)**
-- **6 – Blue – [Kids Room](kids-room/door-sign.md)**
-- **7 – Grey – [Office](office/door-sign.md)**
-- **8 – Purple – [Master Bedroom](master/door-sign.md)**
-- **9 – Black – [Guest Bedroom](guest-bedroom/door-sign.md)**
+- **1 – Red – [Family Room](family/room-label.md)**
+- **2 – Pink – [Kitchen](kitchen/room-label.md)**
+- **3 – Yellow – [Living Room](living/room-label.md)**
+- **4 – Green – [Dining Room](dining/room-label.md)**
+- **5 – Orange – [Pool-Facing Bedroom](pool-facing-bedroom/room-label.md)**
+- **6 – Blue – [Kids Room](kids-room/room-label.md)**
+- **7 – Grey – [Office](office/room-label.md)**
+- **8 – Purple – [Master Bedroom](master/room-label.md)**
+- **9 – Black – [Guest Bedroom](guest-bedroom/room-label.md)**
 
 Write both the **number** and **room name** on each label, e.g. `1 – Family Room`.
 
@@ -21,10 +21,12 @@ Write both the **number** and **room name** on each label, e.g. `1 – Family Ro
 
 ## Key Dates
 - **Dec 2** – **Inspection day**: validate closets, garage epoxy, and garage appliances.
+- **Dec 4** – **Deep cleaning**: whole-house professional clean before move-in.
 - **Dec 5** – Pre-moving day: you move delicate / high-value items, set up essentials.
 - **Dec 6, 2:00 PM** – Official move with movers bringing furniture and remaining boxes.
 
 > See [Dec 2 – Pre-Move Inspection Checklist](dec-2-inspection.md) for detailed checks.
+> See [Dec 4 – Deep Cleaning Checklist](dec-4-deep-cleaning.md) for cleaning prep and validation.
 
 ### Suggested Timeline
 - **Before Dec 5**

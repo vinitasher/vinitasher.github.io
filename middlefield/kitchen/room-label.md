@@ -2,7 +2,9 @@
 
 **Color:** Pink
 
-Print this page in large size and hang on the **Kitchen** door.
+Use this label on the **Kitchen** door and boxes.
+
+[Back to Kitchen checklist](README.md)
 
 ---
 
@@ -10,3 +12,4 @@ Print this page in large size and hang on the **Kitchen** door.
   <div style="font-size: 96px; font-weight: 800; line-height: 1;">2</div>
   <div style="font-size: 40px; font-weight: 800; margin-top: 12px; letter-spacing: 2px;">KITCHEN</div>
 </div>
+

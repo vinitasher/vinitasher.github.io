@@ -2,7 +2,9 @@
 
 **Color:** Yellow
 
-Print this page in large size and hang on the **Living Room** door.
+Use this label on the **Living Room** door and boxes.
+
+[Back to Living Room checklist](README.md)
 
 ---
 

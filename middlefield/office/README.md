@@ -8,7 +8,7 @@
 
 ## Furniture Placement (2561 Middlefield)
 - **Bookshelf** goes in the **Office** (not guest or kids rooms).
-- Large **computer desk** lives in the **Office / media room** (see that room’s notes if separate).
+- Large **computer desk** and the main **TV** live in the **Office / media room**.
 
 ## Packing Checklist (Before / On Dec 5)
 - [ ] Back up computers and important files
