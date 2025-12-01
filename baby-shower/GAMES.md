@@ -211,18 +211,20 @@ Recommended schedule (flexible):
 
 ---
 
+> NOTE: Kids games have been moved to [KIDS](./KIDS.html) — see [baby-shower/KIDS](./KIDS.html) for the kids area setup and checklists.
+
+---
+
 ## 3. Games Master Checklist (Quick View)
 
-- [ ] Don’t Say Baby setup at entry  
-- [ ] Guess the Bottle table arranged  
-- [ ] Baby Pictionary station ready  
-- [ ] Price Is Right items displayed  
-- [ ] Mingle Bingo cards distributed  
-- [ ] Baby Hunt items hidden  
-- [ ] Mommy or Daddy sheets printed  
-- [ ] Prediction & advice cards prepared  
-- [ ] Paint the Bib station set up  
-- [ ] Paint a Block station set up  
-- [ ] Baby Word Search sheets printed  
+- [ ] Don’t Say Baby setup at entry
+- [ ] Baby Pictionary station ready
+- [ ] Price Is Right items displayed
+- [ ] Mingle Bingo cards distributed
+- [ ] Baby Hunt items hidden
+- [ ] Mommy or Daddy sheets printed
+- [ ] Prediction & advice cards prepared
+- [ ] Baby Word Search sheets printed
 - [ ] Prizes sorted and labelled
+- [ ] Kids games area set up (Guess the Bottle table, Paint the Bib, Paint a Block)
 

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Lady Whistledown — Tally Sheet</title>
+  <style>
+    body{font-family: system-ui,Segoe UI,Arial;max-width:900px;margin:16px auto;padding:18px}
+    table{width:100%;border-collapse:collapse}
+    th,td{border:1px solid #ccc;padding:8px;text-align:center}
+    th{background:#faf0f6}
+    .controls{margin-top:12px}
+    @media print{button{display:none}} 
+  </style>
+</head>
+<body>
+  <h1>Lady Whistledown — Tally Sheet</h1>
+  <p>This printable grid is designed for up to 12 tables and 10 rounds. Adjust by printing multiple copies if needed.</p>
+
+  <div style="background:#fff7fb;border:1px solid #f0dce7;padding:10px;margin:12px 0;border-radius:6px">
+    <strong>Example:</strong> If Table 1 chooses option <strong>A</strong> in Round 1 and that is correct, mark a tally (I) under Round 1 for Table 1. Use the <em>Total</em> column to sum tallies and determine the winning table.
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Table</th>
+        <th>Round 1</th>
+        <th>Round 2</th>
+        <th>Round 3</th>
+        <th>Round 4</th>
+        <th>Round 5</th>
+        <th>Round 6</th>
+        <th>Round 7</th>
+        <th>Round 8</th>
+        <th>Round 9</th>
+        <th>Round 10</th>
+        <th>Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background:#fff2f8">
+        <td><strong>Example</strong></td>
+        <td><strong>A (I)</strong></td>
+        <td><strong>B</strong></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><strong>1</strong></td>
+      </tr>
+      <!-- 12 tables -->
+    </tbody>
+  </table>
+
+  <script>
+    (function(){
+      const tbody = document.querySelector('tbody');
+      for(let t=1;t<=12;t++){
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>Table ${t}</td>` + new Array(10).fill(0).map(_=>' <td></td>').join('') + ' <td></td>';
+        tbody.appendChild(tr);
+      }
+    })();
+  </script>
+
+  <div class="controls">
+    <button onclick="window.print()">Print Tally Sheet</button>
+    <a href="./TALLY_SHEET.csv" style="margin-left:12px">Download CSV</a>
+  </div>
+</body>
+</html>

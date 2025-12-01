@@ -1,6 +1,6 @@
 # Decor Plan & Host Script
 
-**Event:** Bridgerton-Themed Baby Shower for Vinit & Priyanka  
+**Event:** Bridgerton-Themed Baby Shower for Vinit Asher & Priyanka Shah
 **Date:** November 22  
 **Time:** 11:00 AM – 2:00 PM
 
@@ -39,7 +39,8 @@ Theme: Soft, romantic Bridgerton-inspired Regency garden party with pastel color
 - **Table runners** in lace or satin (ivory/gold).
 - **Table décor kettle pieces with artificial flowers**
   - Teapots or kettles as vases with faux roses, hydrangeas, baby’s breath.
-  - Add small LED tealights around the centerpiece.
+  - (No LED tealights around centerpieces.)
+  - Add floral triangle banners (fabric or paper bunting with floral prints) strung above tables or across the venue for a garden-party look.
 
 ### 2.5 Extra Bridgerton Touches
 - Printed “society papers” styled as Lady Whistledown gossip sheets.
@@ -67,8 +68,8 @@ Theme: Soft, romantic Bridgerton-inspired Regency garden party with pastel color
 **Tables**
 - [ ] Table covers ironed and placed  
 - [ ] Table runners centered on each table  
-- [ ] Kettle/teapot centerpieces with artificial flowers  
-- [ ] LED tealights around centerpieces  
+- [ ] Paper teapot centerpieces with artificial flowers  
+ - [ ] Floral triangle banners installed above tables/venue
 
 **Atmosphere**
 - [ ] Lady Whistledown “society papers” printed and placed  
